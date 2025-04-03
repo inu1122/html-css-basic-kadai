@@ -54,25 +54,26 @@
   margin-right: auto;
   position: relative;
 }
-#bottom-child01{
+#bottom-child01 {
   width: 400px;
   height: 100px;
   background-color: #e5dcf0;
   position: absolute;
 }
-#bottom-child02{
+#bottom-child02 {
   width: 400px;
   height: 100px;
   background-color: #e5dcf0;
-  position: absolute;
+  position:relative ;
   left: 200px;
   top: 100px;
 }
-#bottom-child03{
+#bottom-child03 {
   width: 400px;
   height: 100px;
   background-color: #e5dcf0;
-  position: absolute;
+  position: relative;
   left: 400px;
-  top: 200px;
+  top: 100px;
 }
+
